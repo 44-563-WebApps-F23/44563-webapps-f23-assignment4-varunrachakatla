@@ -52,3 +52,18 @@
 .ibsen-table tbody tr:hover {
     background-color: #ddd;
 }
+
+.nora:hover {
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.5); 
+    border: 2px solid blue; 
+}
+
+.porter:hover {
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.5); 
+    border: 2px solid blue; 
+}
+
+.helmer:hover {
+    box-shadow: 0 0 10px rgba(255, 0, 0, 0.5); 
+    border: 2px solid blue; 
+}
