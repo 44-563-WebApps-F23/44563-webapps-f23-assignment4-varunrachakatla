@@ -1,0 +1,29 @@
+.speech{
+    font-size: medium;
+    font-family: 'Times New Roman';
+    color:black;
+}
+
+.direction{
+    font-family: serif;
+    font-size: small;
+    color: black;
+    background-color: mintcream;
+}
+
+.direction:hover{
+    background-color: aliceblue;
+    color: aquamarine;
+}
+
+.nora {
+    color: #007acc; 
+  }
+  
+.porter {
+    color: #ff6600; 
+}
+
+.helmer {
+    color: #009900; 
+}
