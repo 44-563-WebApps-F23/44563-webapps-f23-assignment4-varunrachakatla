@@ -27,3 +27,28 @@
 .helmer {
     color: #009900; 
 }
+
+.ibsen-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.ibsen-table th,
+.ibsen-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+.ibsen-table th {
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+.ibsen-table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.ibsen-table tbody tr:hover {
+    background-color: #ddd;
+}
